@@ -1,4 +1,4 @@
-# outliantBooksChallenge
+# BooksChallenge
 
 ## Getting started
 
